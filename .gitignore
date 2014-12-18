@@ -2,6 +2,3 @@
 .DS_Store
 wp-config.php
 
-wp-content/uploads/
-
-wp-content/uploads/*
