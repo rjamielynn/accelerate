@@ -99,3 +99,43 @@ div.case-study-images img{
 	border: 1px solid #dddddd;
 
 }
+
+div.site-content{
+	overflow: auto;
+}
+
+li.individual-featured-work{
+	list-style-type: none;
+	float:left;
+	margin-left: 50px;
+	text-align: center;
+}
+
+section.featured-work{
+	margin-bottom: 120px;
+}
+
+ul.homepage-featured-work{
+	margin-top: 50px;
+	overflow: auto;
+}
+
+section.recent-posts{
+	clear: both;
+	margin-bottom: 200px;
+}
+
+div.recent-posts h5{
+	text-align: center;
+	font-size: 16px;
+	font-family: 'Montserrat';
+}
+
+section.featured-work h4{
+	text-align: center;
+	font-size: 18px;
+	font-family: 'Montserrat';
+}
+
+
+
