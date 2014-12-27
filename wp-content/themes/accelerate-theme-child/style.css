@@ -137,5 +137,7 @@ section.featured-work h4{
 	font-family: 'Montserrat';
 }
 
-
-
+/* Cast Studies Archive Page*/
+ article.case-study-archivepg{
+ 	margin: 30px 0 0;
+ }
