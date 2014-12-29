@@ -187,3 +187,14 @@ div#contact_form p{
     font-size: 12px;
 }
 
+/* About Us Page */
+
+article aside{
+	float:left;
+	margin-left: 20px;
+}
+
+div.about_images{
+	float:left;
+}
+
