@@ -24,9 +24,8 @@ get_header(); ?>
 					<?php } ?>
 				</div>
 				
-				<aside>
+				<aside class="about_sidebar">
    					<h2><?php the_title(); ?></h2>
-   					<h5><?php echo $services; ?></h5>
    					<?php the_content(); ?>
 				</aside>
 			</article>

@@ -188,13 +188,40 @@ div#contact_form p{
 }
 
 /* About Us Page */
-
-article aside{
-	float:left;
-	margin-left: 20px;
+article.about{
+	width:80%;
+	overflow: auto;
+	margin-top:50px;
 }
 
-div.about_images{
+.about aside{
+	float:left;
+	margin-left: 25px;
+}
+.about div.about-images{
 	float:left;
 }
 
+section.about_footer{
+	width:100%;
+	clear:both;
+	color:red;
+	border-top:solid 1px #ececec;
+	margin-top:50px;
+	padding-top: 40px;
+	overflow: auto;
+
+}
+
+.about_footer a{
+  float:left;
+   height:15px;
+  font-size:14px;
+  
+}
+
+.about_footer h4{
+   float:left;
+   margin-right:100px;
+
+}
